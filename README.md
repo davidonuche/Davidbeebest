@@ -1,7 +1,7 @@
 [![MasterHead](https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif)](https://Davidbeebest.io)
 <h1 align="center">Hi 👋, I'm David Onuche</h1>
 <h3 align="center">A passionate software engineer / mobile app developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx/Home Coding Sticker">
 
 
 
