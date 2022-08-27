@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM)]https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif
+[![MasterHead](https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif)]
 <h1 align="center">Hi 👋, I'm David Onuche</h1>
 <h3 align="center">A passionate software engineer / mobile app developer from Nigeria</h3>
 (img align="right" alt="Coding" width="400" src=https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx)
