@@ -1,6 +1,6 @@
 [![MasterHead](https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif)](https://Davidbeebest.io)
 <h1 align="center">Hi 👋, I'm David Onuche</h1>
-<h3 align="center">A passionate software engineer / Flutter developer from Nigeria</h3>
+<h3 align="center">A passionate Software engineer / Flutter developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/girl-day-night-1XCcD9VLQZ2Io/girl day.gif">
 
 
