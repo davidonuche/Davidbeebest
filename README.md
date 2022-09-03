@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my_cv_app**
 
-- 🌱 I’m currently learning **dart, c**
+- 🌱 I’m currently learning **dart, shell, c**
 
 - 👯 I’m looking to collaborate on **any related project**
 
