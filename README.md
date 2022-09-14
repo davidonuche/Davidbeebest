@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/techwithdave" target="blank"><img src="https://img.shields.io/twitter/follow/techwithdave?logo=twitter&style=for-the-badge" alt="techwithdave" /></a> </p>
 
-- 🔭 I’m currently working on **my_cv_app**
+- 🔭 I’m currently working on **alx se / my_diary_app**
 
 - 🌱 I’m currently learning **dart, shell, c**
 
