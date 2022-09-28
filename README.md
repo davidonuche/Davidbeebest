@@ -13,6 +13,8 @@
 
 - 🔭 I’m currently working on **alx se / my_diary_app**
 
+- 📋 Available for developer role (remote) - https://docs.google.com/document/d/1rQIg0BqdI4Y5GCaliFxbDhDQCjRGmkD7Y8ORLW0xU8A/edit?usp=sharing 
+
 - 🌱 I’m currently learning **dart, shell, c**
 
 - 👯 I’m looking to collaborate on **any related project**
