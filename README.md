@@ -6,6 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidbeebest" alt="davidbeebest" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/techwithdave" target="blank"><img src="https://img.shields.io/twitter/follow/techwithdave?logo=twitter&style=for-the-badge" alt="techwithdave" /></a> </p>
+
 - 🔭 I’m currently working on **alx se / my_diary_app**
 
 - 📋 Available for developer role (remote) - https://docs.google.com/document/d/1rQIg0BqdI4Y5GCaliFxbDhDQCjRGmkD7Y8ORLW0xU8A/edit?usp=sharing 
