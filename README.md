@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Software engineer / Flutter developer from Nigeria</h3>
 <img src= "https://giphy.com/gifs/girl-day-night-1XCcD9VLQZ2Io" align="right" alt="Coding" width="400">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbeebest&label=Profile%20views&color=0e75b6&style=flat" alt="davidbeebest" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidbeebest" alt="davidbeebest" /></a> </p>
 
